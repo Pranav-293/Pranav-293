@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Flutter**
 
-- 💬 Ask me about **Java, C++**
+- 💬 Ask me about **Java, C/C++**
 
 - 📫 How to reach me **Pranavgupta293@gmail.com**
 
