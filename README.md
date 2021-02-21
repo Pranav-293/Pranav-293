@@ -17,7 +17,7 @@
   <img width="48%" src="https://camo.githubusercontent.com/b6860107d5fad033d519367771dc48185ae1b0a41ec3d8edd34a53cb001a3d31/68747470733a2f2f6d61676963636f70792e78797a2f6173736574732f696d616765732f6861646465722e676966" />
 </p>
 
-<p></p>
+<p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranav-293&show_icons=true&locale=en&layout=compact" alt="pranav-293" /></p></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranav-293&show_icons=true&locale=en" alt="pranav-293" /></p>
 
