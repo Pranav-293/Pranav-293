@@ -21,12 +21,12 @@
 
  
  ![Pranav github activity graph](https://activity-graph.herokuapp.com/graph?username=pranav-293&theme=xcode)
-
+<p>
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pranav-293&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=pranav-293&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
 <a />
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pranav-293&layout=compact&title_color=007bff&text_color=e7e7e7&icon_color=007bff&bg_color=171c28)
-
+</p>
 
 
