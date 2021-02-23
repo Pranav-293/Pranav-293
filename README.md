@@ -17,6 +17,10 @@
 
 <p><p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranav-293&show_icons=true&locale=en&layout=compact" alt="pranav-293" /></p></p>
 
+<h3 align="left"> Github Stats:</h3>
+
+ ![Subhangini github activity graph](https://activity-graph.herokuapp.com/graph?username=pranav-293&theme=xcode)
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranav-293&show_icons=true&locale=en" alt="pranav-293" /></p>
 
 <p align="center">
