@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pranav</h1>
 <h3 align="center">Welcome to my Github account</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **App Development using Flutter**
 
-- 💬 Ask me about **Java, C/C++**
+- 💬 Ask me about **Java, C/C++, Frontend Development**
 
 - 📫 How to reach me **Pranavgupta293@gmail.com**
 
@@ -15,9 +15,10 @@
   <a href="https://dart.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> &nbsp;
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> &nbsp;
   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
-<h3 align="left"> Tools:</h3>
+<h3 align="left"> Tools and Frameworks:</h3>
 &nbsp;<a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> &nbsp;  &nbsp;  &nbsp;
-<a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <br><a href="https://firebase.google.com/" target="_blank"> <img src="https://firebase.google.com/images/brand-guidelines/logo-standard.png" alt="Firebase" width="150" height="70"/> <br> &nbsp;</a><a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> &nbsp;  &nbsp;  &nbsp; <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
+<a href="https://flutter.dev" target="_blank"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <br><a href="https://firebase.google.com/" target="_blank"> <img src="https://firebase.google.com/images/brand-guidelines/logo-standard.png" alt="Firebase" width="150" height="70"/> <br> &nbsp;</a><a href="https://cloud.google.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> &nbsp;  &nbsp;  &nbsp; <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>  &nbsp;    &nbsp;
+<a href="https://getbootstrap.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg" alt="Bootstrap"  height="40"/> </a>
 
 
 
