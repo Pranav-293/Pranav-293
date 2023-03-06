@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pranav</h1>
 <h3 align="center">Welcome to my Github account</h3>
 
-- 🌱 I’m currently learning **App Development using Flutter**
+- 🌱 I’m currently learning **Full Stack Development**
 
-- 💬 Ask me about **Java, C/C++, Frontend Development**
+- 💬 Ask me about **Java, C/C++, Flutter, React js**
 
 - 📫 How to reach me **Pranavgupta293@gmail.com**
 
